@@ -1,5 +1,5 @@
 # SSM-Demo 
-
+# SSM 框架
 在 **SSM中固定的配置文件** 这个文件夹中包含<br>
 所有的配置文件, pom.xml和web.xml等等<br>
 
